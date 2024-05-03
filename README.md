@@ -11,6 +11,7 @@ Task-1:
       Text Analysis(Sentiment analysis and Topic Modeling)
       Time Series Analysis
       Publisher Analysis
+   
 Task-2:
 1. Merge the necessary branches from task-1 into the main branch
 2. Create at least one new branch called task-2 for the ongoing development
